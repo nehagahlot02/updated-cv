@@ -1,12 +1,14 @@
 body {
   background-color:#EAF6F6;
 }
+
 h1{
   font-family: "Lucida Console", cursive;
   text-decoration: underline #28527a;
 text-shadow: 2px 2px white;
   color: #28527a;
 }
+
 h3{
   text-decoration: underline #28527a;
   color: #28527a;
